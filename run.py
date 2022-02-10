@@ -3,7 +3,6 @@ import plotly
 import pandas as pd
 import numpy as np
 import os
-import streamlit as st
 
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
