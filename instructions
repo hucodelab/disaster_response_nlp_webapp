@@ -1,0 +1,7 @@
+(base) hugo@hugo-K55A:~/Desktop/workspace/GitHub/disaster_response_nlp_webapp$ git add .
+
+(base) hugo@hugo-K55A:~/Desktop/workspace/GitHub/disaster_response_nlp_webapp$ git commit -m "Feb 12 22 1"
+
+(base) hugo@hugo-K55A:~/Desktop/workspace/GitHub/disaster_response_nlp_webapp$ heroku login
+
+
